@@ -35,7 +35,7 @@
         android:layout_marginBottom="8dp"
         android:layout_weight="1"
         android:background="#ffff00"
-        android:gravity="center_vertical"
+        android:gravity="center"
         android:text="@string/count_initial_value"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
